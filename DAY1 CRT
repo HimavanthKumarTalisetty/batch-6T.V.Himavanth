@@ -1,0 +1,71 @@
+print("hello world")
+"""
+print("hello world")
+print("hello world")
+print("hello world")
+"""
+print("hello world")
+"""
+1)commenting is used for making documentation in a pythuon file.
+2)when the line is commented,that line will not be considered as a part of the code.
+3)when the program is executed,connected line will not be in the part of execution. 
+print("hello world")
+"""
+import this
+print(this)
+# import is a keyword which is used to communicated between the pythin files.
+import antigravity
+''''
+
+''''
+Bargoined characters
+   Controls and data structres-->ABC Language
+   Strings and its formats-->from C
+   Regular expressions-->Pearl
+   Expection handling-->Module 3
+   Magic methoda from-->fortron
+
+   Cpython-Written inc,most common implementation python
+   Jython-java implementation of python
+   IronPython-Implementation of the python programming language which is tightly integrated with NET.
+   Brython- Browser Python,runs in browsers
+   Ruby Python -->Bridge between python and ruby interpreters
+   microPython-Runs in micro Controllers
+   #printf (object,sep,end,file,flush)
+   #printf has 5 parameters
+
+
+   #Object -->the value to be printed is object
+   #sep-->separator
+   #eg
+   a = 8
+b  b = 9
+   c = 89
+   print(a,b,c, sep='$'
+#end --->which is used to add the string at rhe end of the end of the value
+## It will not keep the command to stY in same line
+#eg
+'''
+print(str(a),b,end='%%')
+#print(str(c))
+'''
+#! --->variables
+#?variable is a name which is used to identify the value of variable
+#?which is stored in a specific memory location
+
+# !Rules to dedfine variables
+#1.)Variable have to start with only alphabets, underscores
+#2.)The char following the 1st char can be aphabets,numbers,underscores
+#3.)No spaces are allowed
+#4.)No special characters like !@#$%^&*()*
+#5.)case sensitive
+#6.)keywords are not allowed as variables
+
+# ! ways to define variables
+
+
+'''
+a = 8
+print(a)
+print(type(a))         
+'''
